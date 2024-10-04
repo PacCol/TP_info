@@ -15,7 +15,7 @@ def tri_comptage(L):
         for i in dico:
             if i < minimum:
                 minimum = i
-        for i in range(dico[i]):
+        for j in range(dico[minimum]):
             L1.append(minimum)
         del dico[minimum]
     return L1
