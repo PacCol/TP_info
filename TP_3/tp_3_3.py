@@ -1,0 +1,1 @@
+# Après avoir un fichier avec f=open(...), f contient un objet possédant plusieurs méthodes pour l'exploiter

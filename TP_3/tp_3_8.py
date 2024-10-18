@@ -1,0 +1,5 @@
+f = open("Fichiers/test2.txt", "w")
+f.writelines("Le tp est intéressant.\n")
+f.writelines("Les fichiers sont utiles pour enregistrer des informations.\n")
+f.writelines("Vivement les vacances.")
+f.close()
